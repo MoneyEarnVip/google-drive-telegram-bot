@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5110663646:AAGfPtuuqO4wb1rbifU8ndZd-MTUlHJcyTg"
+    APP_ID = "14747039"
+    API_HASH = "a0a64554dd59c026c7c6fd4b6d37f756"
+    DATABASE_URL = "postgres://icttbgiisnylsk:4aed8775a52ad67b9efb10e5d0b6d3e9a625b3fe2a599b71d0966bf77b84f04e@ec2-3-222-49-168.compute-1.amazonaws.com:5432/df9nimikhl41la"
+    SUDO_USERS = "5119162740 1494847490" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/DisneyHDLinks"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "985784745140-1j021flrsk4d15g6u7h2kk9jktqd7fuk.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
