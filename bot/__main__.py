@@ -33,4 +33,3 @@ if __name__ == "__main__":
     )
     LOGGER.info('Starting Bot !')
     app.run()
-    LOGGER.info('Bot Stopped !')
